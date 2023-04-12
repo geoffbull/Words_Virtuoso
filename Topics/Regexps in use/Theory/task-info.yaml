@@ -1,0 +1,17 @@
+type: theory
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14633#comment
+status: Solved
+feedback:
+  time: "Sun, 09 Apr 2023 14:20:40 UTC"
+record: -1
+post_submission_on_open: true

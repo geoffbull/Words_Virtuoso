@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Topics/Commonly Used Regex/Phones without 9/out/
+/Topics/Commonly Used Regex/Phones without 9/out/production/classes/
+/Topics/Regexps in use/Theory/build/
+/Topics/Regexps in use/Theory/out/
+/Topics/Regexps in use/Theory/out/production/classes/
+/Words Virtuoso/task/build/
+/Words Virtuoso/task/out/
+/Words Virtuoso/task/out/production/classes/
